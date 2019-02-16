@@ -35,6 +35,8 @@ How to use as intended:
 			Feel free to remove codecs you don't want to be effected
 
 	5.) Run the script with Python
+		The hierarchy will be as follows
+			\ALBUM ARTIST\YEAR - ALBUM\
 
 What you can change:
 	The easiest user edits can be done to the folder names.
